@@ -1,2 +1,2 @@
-# Heart-failer-Detection---ML-Project---Linear-Regression-KNN-Logistic-Regression
+# Heart failer Detection: ML Project - Linear Regression, KNN, Logistic Regression
 Analyze a dataset from clinical records of heart failure. Apply the fundamental concepts of Exploratory Data Analysis EDA and implement machine learning models for regression and classification. The performance of these models is then evaluated using standard metrics such as RMSE and MAE for regression, and Precision and Recall for classification.
